@@ -1,7 +1,0 @@
-lhorLoge_S1
-lhorLoge_S2
-lhorLoge_S3
-lhorLoge_S4
-lhorLoge_S5
-lhorLoge_S6
-lhorLoge_S7
