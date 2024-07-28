@@ -1,0 +1,181 @@
+
+lhorLoge_S5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BL_kimono_7
+  rotate: false
+  xy: 2, 577
+  size: 431, 126
+  orig: 431, 126
+  offset: 0, 0
+  index: -1
+B_B_kimono_1
+  rotate: true
+  xy: 364, 61
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+B_L_chest
+  rotate: true
+  xy: 427, 308
+  size: 109, 134
+  orig: 109, 134
+  offset: 0, 0
+  index: -1
+B_L_chest_shadow
+  rotate: true
+  xy: 435, 187
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+B_L_foot
+  rotate: false
+  xy: 2, 464
+  size: 364, 111
+  orig: 364, 111
+  offset: 0, 0
+  index: -1
+B_L_hand
+  rotate: false
+  xy: 370, 191
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+B_L_upperarm
+  rotate: true
+  xy: 435, 563
+  size: 140, 155
+  orig: 140, 155
+  offset: 0, 0
+  index: -1
+B_L_upperleg
+  rotate: false
+  xy: 608, 650
+  size: 225, 206
+  orig: 225, 206
+  offset: 0, 0
+  index: -1
+B_R_chest
+  rotate: true
+  xy: 794, 561
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+B_body
+  rotate: false
+  xy: 2, 203
+  size: 181, 259
+  orig: 181, 259
+  offset: 0, 0
+  index: -1
+B_kimono_2
+  rotate: false
+  xy: 2, 705
+  size: 604, 317
+  orig: 604, 317
+  offset: 0, 0
+  index: -1
+B_kimono_3
+  rotate: false
+  xy: 427, 419
+  size: 146, 142
+  orig: 146, 142
+  offset: 0, 0
+  index: -1
+B_kimono_4
+  rotate: true
+  xy: 901, 558
+  size: 89, 79
+  orig: 89, 79
+  offset: 0, 0
+  index: -1
+B_kimono_5
+  rotate: true
+  xy: 835, 649
+  size: 207, 132
+  orig: 207, 132
+  offset: 0, 0
+  index: -1
+B_kimono_shadow
+  rotate: false
+  xy: 592, 571
+  size: 200, 77
+  orig: 200, 77
+  offset: 0, 0
+  index: -1
+B_leg_ribbon
+  rotate: false
+  xy: 346, 128
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+B_neck
+  rotate: false
+  xy: 435, 237
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+B_necklace
+  rotate: true
+  xy: 2, 2
+  size: 14, 60
+  orig: 14, 60
+  offset: 0, 0
+  index: -1
+B_obi_1
+  rotate: false
+  xy: 220, 61
+  size: 142, 63
+  orig: 142, 63
+  offset: 0, 0
+  index: -1
+B_suke234
+  rotate: false
+  xy: 608, 858
+  size: 368, 164
+  orig: 368, 164
+  offset: 0, 0
+  index: -1
+B_sweat234_1
+  rotate: true
+  xy: 132, 56
+  size: 145, 86
+  orig: 145, 86
+  offset: 0, 0
+  index: -1
+B_sweat234_2
+  rotate: true
+  xy: 370, 298
+  size: 277, 55
+  orig: 277, 55
+  offset: 0, 0
+  index: -1
+B_tights
+  rotate: true
+  xy: 2, 18
+  size: 183, 128
+  orig: 183, 128
+  offset: 0, 0
+  index: -1
+R_L_upperleg
+  rotate: false
+  xy: 185, 224
+  size: 183, 238
+  orig: 183, 238
+  offset: 0, 0
+  index: -1
+R_vagina
+  rotate: false
+  xy: 220, 126
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1

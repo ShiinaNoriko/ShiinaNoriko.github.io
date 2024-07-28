@@ -1,0 +1,300 @@
+
+lhorLoge_S3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_B_hair_1
+  rotate: true
+  xy: 623, 33
+  size: 86, 165
+  orig: 86, 165
+  offset: 0, 0
+  index: -1
+A_B_hair_2
+  rotate: true
+  xy: 882, 179
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+A_B_hair_3
+  rotate: true
+  xy: 810, 805
+  size: 217, 197
+  orig: 217, 197
+  offset: 0, 0
+  index: -1
+A_B_hair_5
+  rotate: true
+  xy: 428, 272
+  size: 84, 204
+  orig: 84, 204
+  offset: 0, 0
+  index: -1
+A_B_kimono_3
+  rotate: true
+  xy: 796, 96
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+A_B_ribbon_1
+  rotate: true
+  xy: 810, 644
+  size: 159, 185
+  orig: 159, 185
+  offset: 0, 0
+  index: -1
+A_L_arm
+  rotate: false
+  xy: 802, 245
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+A_L_leg
+  rotate: true
+  xy: 428, 358
+  size: 110, 277
+  orig: 110, 277
+  offset: 0, 0
+  index: -1
+A_L_upperarm
+  rotate: false
+  xy: 298, 11
+  size: 48, 142
+  orig: 48, 142
+  offset: 0, 0
+  index: -1
+A_R_hand
+  rotate: true
+  xy: 461, 4
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+A_aieki234_2
+  rotate: false
+  xy: 810, 537
+  size: 203, 105
+  orig: 203, 105
+  offset: 0, 0
+  index: -1
+A_finger_1
+  rotate: false
+  xy: 987, 394
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+A_finger_2
+  rotate: true
+  xy: 785, 580
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+A_finger_3
+  rotate: true
+  xy: 754, 439
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+A_flour_1
+  rotate: false
+  xy: 707, 427
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+A_flour_2
+  rotate: true
+  xy: 790, 5
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+A_flour_3
+  rotate: false
+  xy: 790, 48
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+A_hairparts_2
+  rotate: true
+  xy: 2, 6
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+A_hand
+  rotate: true
+  xy: 535, 10
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+A_kimono_3
+  rotate: false
+  xy: 885, 275
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+A_kimono_4
+  rotate: false
+  xy: 341, 313
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+A_kimono_5
+  rotate: true
+  xy: 2, 155
+  size: 451, 337
+  orig: 451, 337
+  offset: 0, 0
+  index: -1
+A_wing
+  rotate: false
+  xy: 422, 626
+  size: 386, 396
+  orig: 386, 396
+  offset: 0, 0
+  index: -1
+B_B_hair_1
+  rotate: true
+  xy: 707, 330
+  size: 95, 176
+  orig: 95, 176
+  offset: 0, 0
+  index: -1
+B_B_kimono_3
+  rotate: true
+  xy: 2, 23
+  size: 130, 294
+  orig: 130, 294
+  offset: 0, 0
+  index: -1
+B_B_kimono_4
+  rotate: true
+  xy: 796, 138
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+B_B_ribbon_1
+  rotate: true
+  xy: 348, 2
+  size: 157, 111
+  orig: 157, 111
+  offset: 0, 0
+  index: -1
+B_B_ribbon_3
+  rotate: true
+  xy: 634, 219
+  size: 109, 166
+  orig: 109, 166
+  offset: 0, 0
+  index: -1
+B_R_arm
+  rotate: false
+  xy: 802, 178
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+B_R_leg
+  rotate: false
+  xy: 461, 43
+  size: 160, 116
+  orig: 160, 116
+  offset: 0, 0
+  index: -1
+B_R_upperarm
+  rotate: false
+  xy: 341, 162
+  size: 80, 149
+  orig: 80, 149
+  offset: 0, 0
+  index: -1
+B_R_upperleg
+  rotate: false
+  xy: 428, 470
+  size: 243, 154
+  orig: 243, 154
+  offset: 0, 0
+  index: -1
+B_aieki234_2
+  rotate: false
+  xy: 628, 121
+  size: 166, 96
+  orig: 166, 96
+  offset: 0, 0
+  index: -1
+B_finger_2
+  rotate: false
+  xy: 983, 429
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+B_finger_3
+  rotate: true
+  xy: 997, 759
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+B_flour_1
+  rotate: false
+  xy: 983, 458
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+B_flour_2
+  rotate: false
+  xy: 836, 49
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+B_flour_3
+  rotate: false
+  xy: 983, 497
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+B_vagina
+  rotate: true
+  xy: 673, 477
+  size: 147, 110
+  orig: 147, 110
+  offset: 0, 0
+  index: -1
+B_wing
+  rotate: false
+  xy: 2, 608
+  size: 418, 414
+  orig: 418, 414
+  offset: 0, 0
+  index: -1
+FS4_1
+  rotate: false
+  xy: 785, 427
+  size: 196, 108
+  orig: 196, 108
+  offset: 0, 0
+  index: -1
+FS4_2
+  rotate: false
+  xy: 423, 161
+  size: 203, 109
+  orig: 203, 109
+  offset: 0, 0
+  index: -1

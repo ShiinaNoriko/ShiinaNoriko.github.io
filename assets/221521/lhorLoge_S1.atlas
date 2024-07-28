@@ -1,0 +1,104 @@
+
+lhorLoge_S1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_L_leg
+  rotate: false
+  xy: 1406, 1169
+  size: 110, 277
+  orig: 110, 277
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 1118
+  size: 1402, 898
+  orig: 1402, 898
+  offset: 0, 0
+  index: -1
+ma1_L_leg
+  rotate: false
+  xy: 2, 333
+  size: 180, 291
+  orig: 180, 291
+  offset: 0, 0
+  index: -1
+man1_R_leg
+  rotate: false
+  xy: 1406, 1448
+  size: 189, 292
+  orig: 189, 292
+  offset: 0, 0
+  index: -1
+man1_body
+  rotate: false
+  xy: 2, 840
+  size: 337, 276
+  orig: 337, 276
+  offset: 0, 0
+  index: -1
+man1_head
+  rotate: false
+  xy: 184, 501
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+man1_waist
+  rotate: false
+  xy: 888, 954
+  size: 202, 162
+  orig: 202, 162
+  offset: 0, 0
+  index: -1
+man2_L_leg
+  rotate: true
+  xy: 641, 930
+  size: 186, 245
+  orig: 186, 245
+  offset: 0, 0
+  index: -1
+man2_L_upperarm
+  rotate: false
+  xy: 2, 626
+  size: 332, 212
+  orig: 332, 212
+  offset: 0, 0
+  index: -1
+man2_R_arm
+  rotate: true
+  xy: 341, 919
+  size: 197, 298
+  orig: 197, 298
+  offset: 0, 0
+  index: -1
+man2_R_leg
+  rotate: true
+  xy: 1724, 1836
+  size: 180, 294
+  orig: 180, 294
+  offset: 0, 0
+  index: -1
+man2_body
+  rotate: false
+  xy: 1406, 1742
+  size: 316, 274
+  orig: 316, 274
+  offset: 0, 0
+  index: -1
+man2_head
+  rotate: false
+  xy: 1597, 1610
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+man2_waist
+  rotate: true
+  xy: 2, 124
+  size: 207, 158
+  orig: 207, 158
+  offset: 0, 0
+  index: -1
